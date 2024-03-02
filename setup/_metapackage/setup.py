@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo14-addon-ssi_property_management',
+        'odoo14-addon-ssi_property_management_stock',
     ],
     classifiers=[
         'Programming Language :: Python',
