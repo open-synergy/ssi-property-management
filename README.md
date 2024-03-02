@@ -19,6 +19,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [ssi_property_management](ssi_property_management/) | 14.0.1.0.0 |  | Property Management
+[ssi_property_management_stock](ssi_property_management_stock/) | 14.0.1.0.0 |  | Property Management + Stock Integration
 
 [//]: # (end addons)
 
